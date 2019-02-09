@@ -80,5 +80,5 @@ theme: cactus
 deploy:
   type: git   
   repo: https://github.com/CalamityLorenzo/Blog.git
-  branch: published
+  branch: gh-pages
   message: 
